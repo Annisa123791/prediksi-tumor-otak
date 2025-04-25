@@ -1,0 +1,18 @@
+# Dependensi utama
+tensorflow>=2.5.0
+numpy>=1.19.5
+Pillow>=8.3.1
+matplotlib>=3.4.2
+
+# Untuk konversi ke TensorFlow.js
+tensorflowjs>=3.12.0
+
+# Untuk visualisasi tambahan (opsional)
+opencv-python>=4.5.3.56
+scikit-learn>=0.24.2
+pandas>=1.3.0
+
+# Untuk pengembangan dan testing
+pytest>=6.2.5
+ipython>=7.26.0
+jupyter>=1.0.0
